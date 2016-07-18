@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: 427537f1069e2ef47a74a7fe9ab86359
+timeCreated: 1465818952
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: karte_0
+    21300002: karte_1
+    21300004: karte_2
+    21300006: karte_3
+    21300008: karte_4
+    21300010: karte_5
+    21300012: karte_6
+    21300014: karte_7
+    21300016: karte_8
+    21300018: karte_9
+    21300020: karte_10
+    21300022: karte_11
+    21300024: karte_12
+    21300026: karte_13
+    21300028: karte_14
+    21300030: karte_15
+    21300032: karte_16
+    21300034: karte_17
+    21300036: karte_18
+    21300038: karte_19
+    21300040: karte_20
+    21300042: karte_21
+    21300044: karte_22
+    21300046: karte_23
+    21300048: karte_24
+    21300050: karte_25
+    21300052: karte_26
+    21300054: karte_27
+    21300056: karte_28
+    21300058: karte_29
+    21300060: karte_30
+    21300062: karte_31
+    21300064: karte_32
+    21300066: karte_33
+    21300068: karte_34
+    21300070: karte_35
+    21300072: karte_36
+    21300074: karte_37
+    21300076: karte_38
+    21300078: karte_39
+    21300080: karte_40
+    21300082: karte_41
+    21300084: karte_42
+    21300086: karte_43
+    21300088: karte_44
+    21300090: karte_45
+    21300092: karte_46
+    21300094: karte_47
+    21300096: karte_48
+    21300098: karte_49
+    21300100: karte_50
+    21300102: karte_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: karte_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+        - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+    - name: karte_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 36, y: -57.5}
+        - {x: 38, y: -54.5}
+        - {x: 38, y: 56.5}
+        - {x: 36, y: 57.5}
+    - name: karte_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57.5}
+        - {x: -38, y: 56.5}
+        - {x: -38, y: -55.5}
+        - {x: -36, y: -57.5}
+        - {x: 37, y: -57.5}
+        - {x: 38, y: -56.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 57.5}
+        - {x: -38, y: 55.5}
+        - {x: -38, y: -54.5}
+        - {x: -35, y: -57.5}
+        - {x: 36, y: -57.5}
+        - {x: 38, y: -55.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_7
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 57.5}
+        - {x: -38, y: 55.5}
+        - {x: -38, y: -54.5}
+        - {x: -35, y: -57.5}
+        - {x: 36, y: -57.5}
+        - {x: 38, y: -55.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_8
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_9
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_10
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_11
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 352
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 57.5}
+        - {x: -38, y: 55.5}
+        - {x: -38, y: -54.5}
+        - {x: -35, y: -57.5}
+        - {x: 36, y: -57.5}
+        - {x: 38, y: -55.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_12
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 353
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 37, y: -57.5}
+        - {x: 38, y: -55.5}
+        - {x: 38, y: 57.5}
+    - name: karte_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 36, y: -57.5}
+        - {x: 38, y: -54.5}
+        - {x: 38, y: 56.5}
+        - {x: 36, y: 57.5}
+    - name: karte_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -56.5}
+        - {x: -37, y: -57.5}
+        - {x: 35, y: -57.5}
+        - {x: 38, y: -54.5}
+        - {x: 38, y: 57.5}
+    - name: karte_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_18
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57.5}
+        - {x: -38, y: 56.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 57.5}
+        - {x: -38, y: 55.5}
+        - {x: -38, y: -54.5}
+        - {x: -35, y: -57.5}
+        - {x: 36, y: -57.5}
+        - {x: 38, y: -55.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_20
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 57.5}
+        - {x: -38, y: 55.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_21
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_22
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 236
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57.5}
+        - {x: -38, y: 55.5}
+        - {x: -38, y: -56.5}
+        - {x: -36, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 234
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -56.5}
+        - {x: -36, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_24
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 235
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_25
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 237
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57.5}
+        - {x: -38, y: 56.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 37, y: -57.5}
+        - {x: 38, y: -55.5}
+        - {x: 38, y: 57.5}
+    - name: karte_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57.5}
+        - {x: -38, y: 56.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57.5}
+        - {x: -38, y: 56.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_32
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_33
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 57.5}
+        - {x: -38, y: 54.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_34
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 56.5}
+        - {x: 37, y: 57.5}
+    - name: karte_35
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57.5}
+        - {x: -38, y: 56.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_36
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 119
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 37, y: -57.5}
+        - {x: 38, y: -55.5}
+        - {x: 38, y: 55.5}
+        - {x: 35, y: 57.5}
+    - name: karte_37
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 37, y: -57.5}
+        - {x: 38, y: -56.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_38
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 118
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 57.5}
+        - {x: -38, y: 56.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 56.5}
+        - {x: 36, y: 57.5}
+    - name: karte_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_43
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 57.5}
+        - {x: -38, y: 55.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_44
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_45
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_46
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 57.5}
+        - {x: -38, y: 54.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_47
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1
+        width: 76
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5417585, y: 0.49211508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.173645, y: 58.406765}
+        - {x: -41.173645, y: 57.406765}
+        - {x: -41.173645, y: -56.593235}
+        - {x: 34.826355, y: -56.593235}
+        - {x: 34.826355, y: 57.406765}
+        - {x: 33.826355, y: 58.406765}
+    - name: karte_48
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 35, y: -57.5}
+        - {x: 38, y: -55.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_49
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    - name: karte_50
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 55.5}
+        - {x: 36, y: 57.5}
+    - name: karte_51
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 57.5}
+        - {x: -38, y: -57.5}
+        - {x: 38, y: -57.5}
+        - {x: 38, y: 57.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
